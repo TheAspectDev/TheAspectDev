@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yashar</h1>
-<h3 align="center">A passionate Web & Game Developer From Iran</h3>
+<h3 align="center">A passionate Web Developer From Iran</h3>
 
-- 🔭 I’m currently working on **ProfileWeb**
+- 🔭 I’m currently working on **BuxBlur**
 
-- 🌱 I’m currently learning **Lua, PHP, Django**
+- 🌱 I’m currently learning **Lua, PHP, Django, NextJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheAspectDev?tab=repositories](https://github.com/TheAspectDev?tab=repositories)
 
-- 💬 Ask me about **Python, Django, HTML/CSS/JS**
+- 💬 Ask me about **Python, Django, NextJs, HTML/CSS/JS**
 
 - 📫 How to reach me **theaspectdev@gmail.com**
 
