@@ -27,7 +27,6 @@
 
 <div align="center">
   <h1>Learning</h1>
-  <img width=40 src="https://camo.githubusercontent.com/e75202afa004675c13d10f07f1812bedd4bd784a8ed43481e982a69b2063b446/687474703a2f2f727573742d6c616e672e6f72672f6c6f676f732f727573742d6c6f676f2d353132783531322e706e67">
   <img width=40 src="https://raw.githubusercontent.com/michaelkolesidis/tech-icons/3f4f5fbef9a8e5dae8dc9cab983472a9222993b9/icons/kotlin/kotlin-original.svg">
   <img width=40 src="https://raw.githubusercontent.com/michaelkolesidis/tech-icons/3f4f5fbef9a8e5dae8dc9cab983472a9222993b9/icons/electron/electron-original.svg">
 
