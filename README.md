@@ -2,7 +2,7 @@
 <div align="center">
 
   
-<picture>
+<picture width=700>
   <source
     srcset="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=12&height=20&width=400&color=FFFFFF&lines=Cool+people+use+dark+mode;You+are+cool+😀"
     media="(prefers-color-scheme: dark)"
