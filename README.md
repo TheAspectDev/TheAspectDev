@@ -1,7 +1,20 @@
 
 <div align="center">
-<img width=700 src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=12&height=20&width=400&color=FFFFFF&lines=Cool+people+use+dark+mode;You+are+cool+😀">
+
+  
+<picture>
+  <source
+    srcset="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=12&height=20&width=400&color=FFFFFF&lines=Cool+people+use+dark+mode;You+are+cool+😀"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=12&height=20&width=400&color=FFFFFF&lines=Cool+people+use+dark+mode;You+are+not+cool+🤬"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width=700 src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=12&height=20&width=400&color=FFFFFF&lines=Cool+people+use+dark+mode;You+are+cool+😀"/>
+</picture>
 <br/><br/>
+  
 <img src="https://github-readme-stats.vercel.app/api?username=theaspectdev&show_icons=true&theme=shadow_red"></img>
 </div>
 
