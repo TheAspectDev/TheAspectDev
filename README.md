@@ -8,7 +8,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=12&height=20&width=400&color=FFFFFF&lines=Cool+people+use+dark+mode;You+are+not+cool+🤬"
+    srcset="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=12&height=20&width=400&color=000&lines=Cool+people+use+dark+mode;You+are+not+cool+🤬"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img width=700 src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=12&height=20&width=400&color=FFFFFF&lines=Cool+people+use+dark+mode;You+are+cool+😀"/>
