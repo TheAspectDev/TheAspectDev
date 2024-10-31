@@ -26,6 +26,7 @@
   <img width=40 src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/python/python-original.svg">
   <img width=40 src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/javascript/javascript-plain.svg">
   <img width=40 src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/django/django-plain.svg">
+  <img width=40 src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/laravel/laravel-plain-wordmark.svg">
   <img width=40 src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/react/react-original.svg">
   <img width=40 src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/tailwindcss/tailwindcss-plain.svg">
   <img width=40 src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/typescript/typescript-original.svg">
