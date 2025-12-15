@@ -21,7 +21,6 @@
 <br/>
 
 <div align="center">
-  <h1>I know</h1>
   <img width=40 src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/nodejs/nodejs-original.svg">
   <img width=40 src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/python/python-original.svg">
   <img width=40 src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/laravel/laravel-plain-wordmark.svg">
